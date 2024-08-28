@@ -19,7 +19,7 @@ const perguntas =[
             }
         ]
     },
-
+''
     {
         enunciado: "Pergunta 2",
         alternativas:[
